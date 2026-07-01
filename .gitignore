@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.log
+
+# Node (skulle det komme inn ved lokal utvikling)
+node_modules/
